@@ -1,0 +1,3 @@
+[submodule "server-nodejs"]
+	path = server-nodejs
+	url = https://github.com/hapi-server/server-nodejs.git
